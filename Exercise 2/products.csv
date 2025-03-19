@@ -1,0 +1,51 @@
+product_id,product_name,category,price,popularity,region
+1,Raincoat,Clothing,43.99,10,North America
+2,Sneakers,Clothing,25.99,6,Europe
+3,Self-Help Book,Books,48.99,6,Europe
+4,Action Camera,Electronics,680.99,7,North America
+5,4K Monitor,Electronics,824.99,5,North America
+6,Dumbbell Set,Sports,229.99,8,Europe
+7,Mattress Topper,Home,467.99,1,North America
+8,Curtains,Home,128.99,2,Europe
+9,Resistance Bands,Sports,83.99,4,North America
+10,Programming Guide,Books,46.99,3,Europe
+11,Sportswear Set,Clothing,66.99,9,North America
+12,Fantasy Novel,Books,6.99,6,North America
+13,Winter Jacket,Clothing,45.99,8,North America
+14,Gaming Console,Electronics,982.99,10,North America
+15,Standing Fan,Home,392.99,3,Europe
+16,Running Shoes,Sports,185.99,9,North America
+17,Formal Suit,Clothing,31.99,5,Europe
+18,Tennis Racket,Sports,174.99,3,Europe
+19,Hiking Backpack,Sports,178.99,8,North America
+20,Cookbook,Books,19.99,10,Europe
+21,Scarf,Clothing,74.99,6,Europe
+22,Socks (Pack of 5),Clothing,77.99,3,North America
+23,External Hard Drive,Electronics,624.99,6,Europe
+24,T-Shirt,Clothing,23.99,10,North America
+25,Air Purifier,Home,168.99,3,North America
+26,Basketball,Sports,144.99,9,Europe
+27,Camping Tent,Sports,188.99,7,Europe
+28,Tablet,Electronics,1067.99,5,North America
+29,Jeans,Clothing,85.99,5,North America
+30,Science Fiction Book,Books,19.99,8,North America
+31,Water Bottle,Sports,246.99,9,Europe
+32,Vacuum Cleaner,Home,134.99,9,Europe
+33,Smartphone,Electronics,94.99,8,North America
+34,Mystery Novel,Books,36.99,7,North America
+35,Noise-Canceling Headphones,Electronics,900.99,5,North America
+36,Electric Kettle,Home,221.99,5,Europe
+37,Travel Guide,Books,19.99,7,North America
+38,Historical Fiction,Books,28.99,3,Europe
+39,Sweatshirt,Clothing,173.99,3,Europe
+40,Table Lamp,Home,384.99,2,North America
+41,Children's Storybook,Books,19.99,3,North America
+42,Yoga Mat,Sports,161.99,4,North America
+43,Coffee Maker,Home,355.99,6,North America
+44,Kitchen Blender,Home,57.99,6,North America
+45,Wall Clock,Home,228.99,4,North America
+46,Exercise Bike,Sports,241.99,3,Europe
+47,Smartwatch,Electronics,135.99,6,Europe
+48,Biography,Books,37.99,3,Europe
+49,Laptop,Electronics,263.99,9,Europe
+50,Wireless Earbuds,Electronics,489.99,6,North America

@@ -1,0 +1,200 @@
+5|16|Running Shoes|Absolutely worth the price! The quality is unmatched. Amazing product, highly recommend!|5
+64|46|Exercise Bike|Absolutely worth the price! The quality is unmatched. Amazing product, highly recommend!|5
+65|14|Gaming Console|Fantastic build quality. You get what you pay for! Audio quality is clear and immersive.|4
+67|38|Historical Fiction|A premium product that delivers premium results. A must-read for fans of the genre.|5
+64|4|Action Camera|Absolutely worth the price! The quality is unmatched. The battery life is phenomenal, lasts all day!|5
+89|13|Winter Jacket|Disappointed with the performance, especially at this price. Terrible product, do not buy!|2
+56|9|Resistance Bands|Absolutely worth the price! The quality is unmatched. Amazing product, highly recommend!|5
+92|2|Sneakers|Decent quality for a budget option. It's okay, nothing special.|3
+62|4|Action Camera|Good for the price, but don't expect miracles. Battery life is decent but could be better.|3
+56|48|Biography|Absolutely worth the price! The quality is unmatched. A compelling read, I couldn't put it down!|4
+97|12|Fantasy Novel|Absolutely worth the price! The quality is unmatched. Engaging and thought-provoking.|4
+43|43|Coffee Maker|A premium product that delivers premium results. Amazing product, highly recommend!|5
+70|4|Action Camera|Absolutely worth the price! The quality is unmatched. Perfect for tech enthusiasts.|5
+75|28|Tablet|A premium product that delivers premium results. Design is sleek and modern.|5
+56|41|Children's Storybook|It's okay, but not great. Decent but not memorable.|2
+77|43|Coffee Maker|A premium product that delivers premium results. Amazing product, highly recommend!|4
+53|33|Smartphone|Absolutely worth the price! The quality is unmatched. Design is sleek and modern.|5
+88|39|Sweatshirt|Exceeded my expectations in every way! Amazing product, highly recommend!|5
+77|43|Coffee Maker|High-quality and worth every cent. Amazing product, highly recommend!|4
+75|26|Basketball|Absolutely worth the price! The quality is unmatched. Amazing product, highly recommend!|4
+96|50|Wireless Earbuds|Affordable, but some features are lacking. Design is nice but feels fragile.|3
+52|7|Mattress Topper|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|4
+43|7|Mattress Topper|Does the job, but there's room for improvement. It's okay, nothing special.|2
+62|8|Curtains|Good for the price, but don't expect miracles. It's okay, nothing special.|3
+95|6|Dumbbell Set|A premium product that delivers premium results. Amazing product, highly recommend!|5
+88|24|T-Shirt|It's okay, but not great. It's okay, nothing special.|2
+35|5|4K Monitor|Does the job, but there's room for improvement. A mixed bag overall.|2
+35|14|Gaming Console|Absolutely worth the price! The quality is unmatched. Perfect for tech enthusiasts.|4
+11|15|Standing Fan|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+37|35|Noise-Canceling Headphones|Fantastic build quality. You get what you pay for! Setup was super easy, and it works flawlessly.|4
+4|25|Air Purifier|It's okay, but not great. It's okay, nothing special.|2
+49|32|Vacuum Cleaner|Low quality. Expected much better. Terrible product, do not buy!|1
+100|40|Table Lamp|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|4
+56|38|Historical Fiction|The product broke after a few uses. Would not recommend. Full of typos and errors, hard to follow.|1
+93|6|Dumbbell Set|Decent quality for a budget option. It's okay, nothing special.|3
+2|43|Coffee Maker|A premium product that delivers premium results. Amazing product, highly recommend!|4
+70|29|Jeans|Not as good as advertised. Avoid if you can. Terrible product, do not buy!|1
+93|6|Dumbbell Set|Exceeded my expectations in every way! Amazing product, highly recommend!|5
+19|41|Children's Storybook|Exceeded my expectations in every way! Engaging and thought-provoking.|5
+40|36|Electric Kettle|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+93|25|Air Purifier|Absolutely worth the price! The quality is unmatched. Amazing product, highly recommend!|4
+7|32|Vacuum Cleaner|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+67|43|Coffee Maker|High-quality and worth every cent. Amazing product, highly recommend!|4
+43|32|Vacuum Cleaner|Low quality. Expected much better. Terrible product, do not buy!|1
+81|36|Electric Kettle|Absolutely worth the price! The quality is unmatched. Amazing product, highly recommend!|4
+24|38|Historical Fiction|Affordable, but some features are lacking. Good content, but the print quality could be better.|2
+14|24|T-Shirt|The product broke after a few uses. Would not recommend. Terrible product, do not buy!|2
+15|21|Scarf|Affordable, but some features are lacking. It's okay, nothing special.|3
+84|40|Table Lamp|Disappointed with the performance, especially at this price. Terrible product, do not buy!|2
+13|16|Running Shoes|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+79|12|Fantasy Novel|Exceeded my expectations in every way! A compelling read, I couldn't put it down!|5
+48|37|Travel Guide|High-quality and worth every cent. Perfect for a weekend read.|5
+79|20|Cookbook|Exceeded my expectations in every way! A must-read for fans of the genre.|5
+19|49|Laptop|Exceeded my expectations in every way! Audio quality is clear and immersive.|4
+78|29|Jeans|It's okay, but not great. It's okay, nothing special.|2
+27|33|Smartphone|It's okay, but not great. Sound quality is average for the price.|2
+8|33|Smartphone|Not as good as advertised. Avoid if you can. Battery drains too quickly.|1
+68|27|Camping Tent|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+2|33|Smartphone|Exceeded my expectations in every way! The battery life is phenomenal, lasts all day!|5
+63|9|Resistance Bands|Disappointed with the performance, especially at this price. Terrible product, do not buy!|2
+88|31|Water Bottle|The product broke after a few uses. Would not recommend. Terrible product, do not buy!|2
+78|7|Mattress Topper|Decent quality for a budget option. It's okay, nothing special.|2
+7|1|Raincoat|Does the job, but there's room for improvement. It's okay, nothing special.|2
+30|7|Mattress Topper|A premium product that delivers premium results. Amazing product, highly recommend!|5
+48|21|Scarf|Absolutely worth the price! The quality is unmatched. Amazing product, highly recommend!|4
+23|32|Vacuum Cleaner|High-quality and worth every cent. Amazing product, highly recommend!|5
+54|2|Sneakers|Exceeded my expectations in every way! Amazing product, highly recommend!|5
+98|12|Fantasy Novel|The product broke after a few uses. Would not recommend. Poorly written, didn't meet my expectations.|2
+96|25|Air Purifier|A premium product that delivers premium results. Amazing product, highly recommend!|4
+47|24|T-Shirt|The product broke after a few uses. Would not recommend. Terrible product, do not buy!|2
+3|22|Socks (Pack of 5)|Exceeded my expectations in every way! Amazing product, highly recommend!|5
+24|21|Scarf|Low quality. Expected much better. Terrible product, do not buy!|1
+20|45|Wall Clock|Decent quality for a budget option. It's okay, nothing special.|2
+56|39|Sweatshirt|A premium product that delivers premium results. Amazing product, highly recommend!|4
+45|15|Standing Fan|Not as good as advertised. Avoid if you can. Terrible product, do not buy!|1
+37|37|Travel Guide|The product broke after a few uses. Would not recommend. The story was boring and lacked depth.|2
+83|10|Programming Guide|Good for the price, but don't expect miracles. Worth a read if you're into the topic.|3
+78|47|Smartwatch|High-quality and worth every cent. Audio quality is clear and immersive.|4
+12|14|Gaming Console|Exceeded my expectations in every way! The battery life is phenomenal, lasts all day!|4
+6|3|Self-Help Book|The product broke after a few uses. Would not recommend. Poorly written, didn't meet my expectations.|1
+25|33|Smartphone|Exceeded my expectations in every way! Setup was super easy, and it works flawlessly.|5
+34|29|Jeans|Absolutely worth the price! The quality is unmatched. Amazing product, highly recommend!|4
+20|34|Mystery Novel|Affordable, but some features are lacking. An average read, some parts were interesting.|3
+16|45|Wall Clock|A premium product that delivers premium results. Amazing product, highly recommend!|5
+18|15|Standing Fan|Disappointed with the performance, especially at this price. Terrible product, do not buy!|1
+69|42|Yoga Mat|Too expensive for what it offers. Terrible product, do not buy!|2
+84|48|Biography|Does the job, but there's room for improvement. Decent but not memorable.|2
+3|19|Hiking Backpack|Too expensive for what it offers. Terrible product, do not buy!|1
+15|38|Historical Fiction|Does the job, but there's room for improvement. An average read, some parts were interesting.|2
+5|38|Historical Fiction|Does the job, but there's room for improvement. Decent but not memorable.|3
+22|26|Basketball|A premium product that delivers premium results. Amazing product, highly recommend!|4
+90|21|Scarf|High-quality and worth every cent. Amazing product, highly recommend!|4
+60|21|Scarf|Exceeded my expectations in every way! Amazing product, highly recommend!|5
+47|2|Sneakers|Exceeded my expectations in every way! Amazing product, highly recommend!|4
+88|41|Children's Storybook|Decent quality for a budget option. Good content, but the print quality could be better.|3
+51|3|Self-Help Book|Absolutely worth the price! The quality is unmatched. Informative and well-written, highly recommended.|4
+3|18|Tennis Racket|A premium product that delivers premium results. Amazing product, highly recommend!|4
+17|39|Sweatshirt|High-quality and worth every cent. Amazing product, highly recommend!|5
+2|43|Coffee Maker|Too expensive for what it offers. Terrible product, do not buy!|2
+33|50|Wireless Earbuds|Fantastic build quality. You get what you pay for! Design is sleek and modern.|5
+92|6|Dumbbell Set|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+17|50|Wireless Earbuds|A premium product that delivers premium results. Perfect for tech enthusiasts.|4
+34|8|Curtains|Exceeded my expectations in every way! Amazing product, highly recommend!|5
+7|46|Exercise Bike|High-quality and worth every cent. Amazing product, highly recommend!|4
+35|31|Water Bottle|A premium product that delivers premium results. Amazing product, highly recommend!|4
+4|18|Tennis Racket|Does the job, but there's room for improvement. It's okay, nothing special.|3
+57|46|Exercise Bike|Exceeded my expectations in every way! Amazing product, highly recommend!|4
+76|32|Vacuum Cleaner|Decent quality for a budget option. It's okay, nothing special.|3
+75|42|Yoga Mat|Good for the price, but don't expect miracles. It's okay, nothing special.|3
+22|17|Formal Suit|Absolutely worth the price! The quality is unmatched. Amazing product, highly recommend!|5
+7|30|Science Fiction Book|Decent quality for a budget option. Decent but not memorable.|3
+49|43|Coffee Maker|Exceeded my expectations in every way! Amazing product, highly recommend!|5
+24|42|Yoga Mat|Absolutely worth the price! The quality is unmatched. Amazing product, highly recommend!|5
+41|24|T-Shirt|Affordable, but some features are lacking. It's okay, nothing special.|2
+86|22|Socks (Pack of 5)|Good for the price, but don't expect miracles. It's okay, nothing special.|2
+16|30|Science Fiction Book|It's okay, but not great. Storyline is okay but predictable.|3
+88|33|Smartphone|Low quality. Expected much better. Not recommended for serious use.|2
+13|38|Historical Fiction|Does the job, but there's room for improvement. Storyline is okay but predictable.|2
+93|5|4K Monitor|Fantastic build quality. You get what you pay for! Perfect for tech enthusiasts.|5
+16|38|Historical Fiction|Exceeded my expectations in every way! A must-read for fans of the genre.|4
+83|2|Sneakers|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|4
+80|35|Noise-Canceling Headphones|High-quality and worth every cent. The battery life is phenomenal, lasts all day!|4
+13|20|Cookbook|Decent quality for a budget option. Worth a read if you're into the topic.|2
+60|31|Water Bottle|Not as good as advertised. Avoid if you can. Terrible product, do not buy!|1
+80|22|Socks (Pack of 5)|Does the job, but there's room for improvement. It's okay, nothing special.|3
+53|10|Programming Guide|Does the job, but there's room for improvement. An average read, some parts were interesting.|2
+14|42|Yoga Mat|Exceeded my expectations in every way! Amazing product, highly recommend!|5
+1|3|Self-Help Book|Fantastic build quality. You get what you pay for! A compelling read, I couldn't put it down!|4
+79|21|Scarf|It's okay, but not great. It's okay, nothing special.|3
+73|6|Dumbbell Set|Does the job, but there's room for improvement. It's okay, nothing special.|2
+31|15|Standing Fan|Exceeded my expectations in every way! Amazing product, highly recommend!|5
+30|43|Coffee Maker|Exceeded my expectations in every way! Amazing product, highly recommend!|4
+85|19|Hiking Backpack|Absolutely worth the price! The quality is unmatched. Amazing product, highly recommend!|5
+86|33|Smartphone|Exceeded my expectations in every way! The battery life is phenomenal, lasts all day!|5
+63|30|Science Fiction Book|Disappointed with the performance, especially at this price. The story was boring and lacked depth.|2
+65|31|Water Bottle|Exceeded my expectations in every way! Amazing product, highly recommend!|4
+34|22|Socks (Pack of 5)|Disappointed with the performance, especially at this price. Terrible product, do not buy!|1
+55|45|Wall Clock|Disappointed with the performance, especially at this price. Terrible product, do not buy!|1
+39|24|T-Shirt|Too expensive for what it offers. Terrible product, do not buy!|2
+25|11|Sportswear Set|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+55|48|Biography|Exceeded my expectations in every way! Informative and well-written, highly recommended.|5
+86|5|4K Monitor|It's okay, but not great. Battery life is decent but could be better.|3
+28|19|Hiking Backpack|Low quality. Expected much better. Terrible product, do not buy!|2
+35|34|Mystery Novel|Disappointed with the performance, especially at this price. The story was boring and lacked depth.|2
+11|36|Electric Kettle|Disappointed with the performance, especially at this price. Terrible product, do not buy!|2
+60|29|Jeans|Decent quality for a budget option. It's okay, nothing special.|2
+53|9|Resistance Bands|Does the job, but there's room for improvement. It's okay, nothing special.|3
+9|2|Sneakers|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+15|38|Historical Fiction|High-quality and worth every cent. Perfect for a weekend read.|4
+17|45|Wall Clock|Affordable, but some features are lacking. It's okay, nothing special.|2
+94|30|Science Fiction Book|Fantastic build quality. You get what you pay for! A must-read for fans of the genre.|4
+79|23|External Hard Drive|Absolutely worth the price! The quality is unmatched. Audio quality is clear and immersive.|5
+4|2|Sneakers|High-quality and worth every cent. Amazing product, highly recommend!|4
+16|39|Sweatshirt|Exceeded my expectations in every way! Amazing product, highly recommend!|4
+68|27|Camping Tent|A premium product that delivers premium results. Amazing product, highly recommend!|4
+15|20|Cookbook|High-quality and worth every cent. A must-read for fans of the genre.|5
+37|4|Action Camera|Absolutely worth the price! The quality is unmatched. Perfect for tech enthusiasts.|5
+82|47|Smartwatch|Exceeded my expectations in every way! Audio quality is clear and immersive.|4
+2|27|Camping Tent|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+44|41|Children's Storybook|Absolutely worth the price! The quality is unmatched. Engaging and thought-provoking.|5
+40|50|Wireless Earbuds|Fantastic build quality. You get what you pay for! Audio quality is clear and immersive.|5
+96|17|Formal Suit|Disappointed with the performance, especially at this price. Terrible product, do not buy!|1
+6|39|Sweatshirt|Affordable, but some features are lacking. It's okay, nothing special.|3
+66|21|Scarf|Decent quality for a budget option. It's okay, nothing special.|3
+70|5|4K Monitor|High-quality and worth every cent. The battery life is phenomenal, lasts all day!|4
+5|17|Formal Suit|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+67|45|Wall Clock|A premium product that delivers premium results. Amazing product, highly recommend!|4
+100|16|Running Shoes|A premium product that delivers premium results. Amazing product, highly recommend!|4
+97|48|Biography|Does the job, but there's room for improvement. Good content, but the print quality could be better.|3
+50|27|Camping Tent|Exceeded my expectations in every way! Amazing product, highly recommend!|4
+66|27|Camping Tent|Affordable, but some features are lacking. It's okay, nothing special.|3
+5|7|Mattress Topper|A premium product that delivers premium results. Amazing product, highly recommend!|5
+95|24|T-Shirt|A premium product that delivers premium results. Amazing product, highly recommend!|4
+92|28|Tablet|Fantastic build quality. You get what you pay for! Design is sleek and modern.|5
+47|1|Raincoat|Good for the price, but don't expect miracles. It's okay, nothing special.|2
+35|41|Children's Storybook|Good for the price, but don't expect miracles. Decent but not memorable.|2
+48|3|Self-Help Book|A premium product that delivers premium results. Engaging and thought-provoking.|5
+100|15|Standing Fan|Affordable, but some features are lacking. It's okay, nothing special.|3
+55|21|Scarf|Disappointed with the performance, especially at this price. Terrible product, do not buy!|2
+68|46|Exercise Bike|A premium product that delivers premium results. Amazing product, highly recommend!|4
+29|46|Exercise Bike|High-quality and worth every cent. Amazing product, highly recommend!|4
+90|14|Gaming Console|High-quality and worth every cent. Audio quality is clear and immersive.|5
+83|46|Exercise Bike|Not as good as advertised. Avoid if you can. Terrible product, do not buy!|2
+21|27|Camping Tent|Low quality. Expected much better. Terrible product, do not buy!|1
+71|4|Action Camera|High-quality and worth every cent. The battery life is phenomenal, lasts all day!|5
+23|7|Mattress Topper|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+89|25|Air Purifier|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+12|32|Vacuum Cleaner|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+54|7|Mattress Topper|High-quality and worth every cent. Amazing product, highly recommend!|5
+40|12|Fantasy Novel|The product broke after a few uses. Would not recommend. Not worth the time or money.|2
+6|41|Children's Storybook|Too expensive for what it offers. Not worth the time or money.|1
+43|7|Mattress Topper|Fantastic build quality. You get what you pay for! Amazing product, highly recommend!|5
+65|10|Programming Guide|Disappointed with the performance, especially at this price. Disappointing for such a promising premise.|1
+71|4|Action Camera|A premium product that delivers premium results. Perfect for tech enthusiasts.|5
+71|37|Travel Guide|Low quality. Expected much better. Full of typos and errors, hard to follow.|2
+63|49|Laptop|Absolutely worth the price! The quality is unmatched. Audio quality is clear and immersive.|5
+98|12|Fantasy Novel|Absolutely worth the price! The quality is unmatched. A compelling read, I couldn't put it down!|5
+31|2|Sneakers|Does the job, but there's room for improvement. It's okay, nothing special.|2
+47|28|Tablet|A premium product that delivers premium results. Setup was super easy, and it works flawlessly.|5
+83|5|4K Monitor|A premium product that delivers premium results. Perfect for tech enthusiasts.|5

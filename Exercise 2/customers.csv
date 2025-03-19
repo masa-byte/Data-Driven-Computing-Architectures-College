@@ -1,0 +1,101 @@
+customer_id,name,age,country,preferred_category,loyalty_score
+1,Cindy Simpson,60,United Kingdom,Clothing,0.15
+2,Eric White,41,United Kingdom,Clothing,0.22
+3,Linda Todd,54,United Kingdom,Home,0.5
+4,Shannon Woods,52,Canada,Sports,0.71
+5,Michael Brown,48,France,Clothing,0.36
+6,Priscilla Stewart,72,France,Books,0.06
+7,Katie Allison,24,United Kingdom,Electronics,0.04
+8,Jeremy Weiss,73,United States,Books,0.11
+9,Shelly Castaneda,59,Canada,Sports,0.13
+10,Karen Jones,45,France,Sports,0.44
+11,Angela Scott,61,Germany,Books,0.06
+12,Anthony Pruitt,26,France,Electronics,0.48
+13,Ms. Amber White,21,France,Electronics,0.99
+14,Kenneth Short,63,France,Books,0.94
+15,Robert Benson,68,France,Books,0.56
+16,Tiffany Alvarado MD,51,Germany,Clothing,0.95
+17,Jessica Bell,52,United States,Clothing,0.85
+18,Victoria Horton,69,Canada,Books,0.9
+19,Linda Malone,47,United States,Sports,0.01
+20,Timothy Mccarthy,50,United States,Home,0.18
+21,Brittany Burke,43,United States,Clothing,0.02
+22,Heather Smith,35,Canada,Sports,0.86
+23,April Landry,28,Germany,Electronics,0.11
+24,Cesar Davis,18,Canada,Electronics,0.89
+25,Jose Gonzalez,34,France,Clothing,0.84
+26,Tony Garrett,29,United Kingdom,Electronics,0.21
+27,Allison Gregory,80,Germany,Books,0.7
+28,Heather Hernandez,51,Germany,Sports,0.99
+29,Donald Taylor,35,United Kingdom,Home,0.78
+30,Kathy Campbell,38,Germany,Home,0.54
+31,Brittany Flynn,43,United States,Clothing,0.88
+32,Amber Mitchell,30,United States,Clothing,0.39
+33,John Smith,34,United States,Home,0.66
+34,Heather Duke,28,Germany,Electronics,0.74
+35,Benjamin Flores,33,United Kingdom,Sports,0.2
+36,Jennifer Watson,38,Germany,Sports,0.93
+37,Aaron Smith,50,United States,Clothing,0.52
+38,Christina Kelly,31,France,Clothing,0.05
+39,Melissa Chapman,26,France,Electronics,0.69
+40,Christine Swanson,45,Canada,Home,0.74
+41,Dr. Michael Thompson DVM,31,Germany,Clothing,0.6
+42,Nicholas Davis,19,Canada,Electronics,0.15
+43,Nancy Jones,29,United States,Electronics,0.81
+44,Joe Johnson PhD,76,United States,Books,0.37
+45,Patrick Williams,80,Germany,Books,0.87
+46,Justin Coleman,59,Germany,Clothing,0.36
+47,Shannon Adams,30,Canada,Clothing,0.24
+48,Brittany Johnson,62,United Kingdom,Books,0.16
+49,Valerie Mitchell,28,United States,Electronics,0.48
+50,Nathaniel Mcclure,18,France,Electronics,0.31
+51,Frank Bernard,61,Canada,Books,0.42
+52,William Lee,78,United States,Books,0.95
+53,Wendy Brown,76,Germany,Books,0.13
+54,Paul Scott,35,Canada,Clothing,0.39
+55,Mike Baker,54,Canada,Sports,0.7
+56,Aaron Roberts,53,Germany,Clothing,0.99
+57,Mandy Boyd,36,United Kingdom,Clothing,0.64
+58,Jackie Adams,33,Canada,Clothing,0.87
+59,Steven Schmidt,80,United States,Books,0.98
+60,Brandon Perkins,52,United Kingdom,Home,0.66
+61,Kelly Young,18,United Kingdom,Electronics,0.73
+62,Allison Mathews,39,Canada,Clothing,0.1
+63,Colleen Brown,57,United States,Clothing,0.24
+64,Seth Carey,19,United Kingdom,Electronics,0.26
+65,Anthony Davenport,28,France,Electronics,0.27
+66,Vanessa Vang,64,United Kingdom,Books,0.33
+67,William Lee,60,Germany,Sports,0.23
+68,Christopher Woodard,74,Canada,Books,0.47
+69,Dr. Teresa Oliver,54,Germany,Home,0.12
+70,Sara Gibbs,54,France,Home,0.15
+71,Mr. Reginald Roy,35,United States,Sports,0.23
+72,Mark Webster,44,United States,Sports,0.88
+73,Kelly Anderson,34,United Kingdom,Clothing,0.93
+74,Shawn Cooper,45,Germany,Sports,0.99
+75,Emily Brown,64,Canada,Books,0.53
+76,Jeffrey Smith,64,Germany,Books,0.19
+77,Christopher Murphy,43,United States,Sports,0.56
+78,Monica King,29,Canada,Electronics,0.33
+79,Candace Nelson,58,Canada,Clothing,0.1
+80,Jonathan Norris,43,Germany,Sports,0.21
+81,Sara Lopez,67,United States,Books,0.75
+82,Julie Raymond,34,United States,Clothing,0.58
+83,Joseph Greene,47,United Kingdom,Sports,0.67
+84,Ryan Hernandez,68,Germany,Books,0.13
+85,Christopher Shaffer,52,Canada,Clothing,0.87
+86,Ralph Garcia,58,Canada,Sports,0.51
+87,Chad Aguilar,42,Germany,Clothing,0.42
+88,Heather Franklin,53,Canada,Clothing,0.92
+89,Ms. Barbara Cummings MD,30,France,Home,0.57
+90,Jeffery Kelly,35,Germany,Clothing,0.91
+91,Cindy Hickman,77,Germany,Books,0.76
+92,Steven Cervantes,63,United States,Books,0.06
+93,Molly Hernandez,42,United Kingdom,Clothing,0.5
+94,Mark Rowland,58,United Kingdom,Clothing,0.78
+95,Robert Russell,80,Canada,Books,0.77
+96,Melinda Mclean,18,United Kingdom,Electronics,0.88
+97,Judy Bolton,53,France,Clothing,0.19
+98,Angela Olson,57,Canada,Clothing,0.4
+99,David Nelson,48,United Kingdom,Sports,0.18
+100,Eric Tucker,31,Germany,Home,0.39
