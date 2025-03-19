@@ -1,0 +1,247 @@
+maintenance_id,machine,maintenance_date,maintenance_type,duration_minutes,cost,operator,notes
+e0c400c6-e7a8-4b40-9b8d-4fc7b1ab7a05,Conveyor-400,2024-10-02 05:48:00,Emergency,140,1312.39,MT104,Critical failure in motor detected.
+0f2cbacd-52d6-49ad-bdae-5c6a29d48f80,DrillPress-100,2024-10-03 03:46:00,Unscheduled,49,263.19,MT105,Replaced small component due to wear.
+48ab287e-4e96-4620-86af-a4e9dda5feae,Conveyor-400,2024-10-03 18:15:00,Scheduled,66,284.63,MT101,Calibrated machine settings.
+b170c9d2-c3fc-4c9e-a51c-8aae5bbc5e7c,RobotArm-600,2024-10-03 03:04:00,Scheduled,91,265.16,MT103,Replaced worn-out filters.
+4f6c00a5-5eaa-4256-92d5-f0e2f368815b,Conveyor-400,2024-10-04 13:04:00,Scheduled,99,212.26,MT102,Routine check-up and lubrication.
+c0a02c7a-1f9c-4fc3-bd59-4a6fd9130054,LaserCutter-900,2024-10-04 11:25:00,Scheduled,67,394.71,MT105,Calibrated machine settings.
+4733bcfc-9d29-4dff-aca7-0f5a525e927b,CNC-Mill-200,2024-10-05 03:23:00,Unscheduled,39,186.01,MT102,Minor sensor recalibration required.
+454309a9-9a73-47f8-8e2e-53ced89a81b2,Lathe-300,2024-10-05 13:54:00,Unscheduled,31,303.62,MT102,Minor sensor recalibration required.
+cc716f3c-a22a-4761-8f25-62566fab805e,Conveyor-400,2024-10-05 01:59:00,Scheduled,66,296.01,MT103,Replaced worn-out filters.
+4b7e11a9-7230-4df2-863c-4bac0a4e6a15,Turbine-500,2024-10-05 04:07:00,Scheduled,75,425.64,MT104,Routine check-up and lubrication.
+aaa9ca88-422d-4c40-9edc-273170aeae5d,LaserCutter-900,2024-10-05 02:04:00,Scheduled,95,322.12,MT103,Routine check-up and lubrication.
+1af6cb8e-3ad8-4f4d-b24d-195b558593f2,CNC-Mill-200,2024-10-06 17:27:00,Scheduled,77,430.02,MT102,Calibrated machine settings.
+b5e6d451-474b-4651-85b0-e1a375cdbf77,Turbine-500,2024-10-06 03:31:00,Emergency,184,1227.77,MT101,Major repair: replaced defective component.
+24cc221b-585b-45b0-95f6-255be4089784,Press-700,2024-10-06 04:06:00,Scheduled,62,282.16,MT101,Routine check-up and lubrication.
+7706dcf3-1bf2-4d3f-8dac-62a1a872b062,3DPrinter-1000,2024-10-06 01:44:00,Scheduled,93,291.93,MT105,Routine check-up and lubrication.
+d208004d-0d99-4b6a-87d6-45772d7be2c4,DrillPress-100,2024-10-07 01:53:00,Scheduled,110,443.41,MT104,Calibrated machine settings.
+4d97272f-71c1-4170-abee-e5dc73020921,RobotArm-600,2024-10-07 12:52:00,Unscheduled,43,325.33,MT104,Minor sensor recalibration required.
+933f06a3-c4aa-4e8b-99a8-5e848dc4187b,Press-700,2024-10-07 04:01:00,Emergency,235,1057.4,MT101,Unexpected shutdown due to overheating.
+5769ded4-80ac-4cc5-a64f-f3688ef85b3e,LaserCutter-900,2024-10-07 07:55:00,Scheduled,60,268.14,MT105,Calibrated machine settings.
+a32063bd-5d0b-4f54-b6b5-ff629da017f4,DrillPress-100,2024-10-08 17:07:00,Scheduled,109,359.12,MT100,Calibrated machine settings.
+29764b00-2162-4fa1-ab81-e4d1994729a9,Turbine-500,2024-10-08 05:20:00,Scheduled,85,435.74,MT101,Calibrated machine settings.
+ad3714ad-4de3-429f-882a-2a228e3c1c7c,DrillPress-100,2024-10-10 09:26:00,Scheduled,108,365.06,MT104,Routine check-up and lubrication.
+dc70733c-800b-4352-aabd-7f20161fecbb,LaserCutter-900,2024-10-12 10:42:00,Emergency,235,1196.12,MT100,Critical failure in motor detected.
+d9ccf81e-5e72-4a2f-af21-53bc55777b8f,3DPrinter-1000,2024-10-12 14:15:00,Emergency,209,1443.28,MT100,Unexpected shutdown due to overheating.
+8ebec528-d172-4ba9-8e26-781c76904ad0,Grinder-800,2024-10-14 07:13:00,Emergency,208,878.75,MT104,Critical failure in motor detected.
+098bebcd-0785-4d32-959f-6d57842106a9,DrillPress-100,2024-10-15 04:04:00,Scheduled,101,320.98,MT102,Replaced worn-out filters.
+baedf348-ac50-435c-9d3e-f022ef5e17bc,Conveyor-400,2024-10-15 00:37:00,Scheduled,98,471.5,MT105,Routine check-up and lubrication.
+a6eba1f4-2af8-48bc-b9fb-c839718115d2,RobotArm-600,2024-10-16 18:33:00,Scheduled,65,297.18,MT103,Routine check-up and lubrication.
+7c99e6d1-fe16-47a3-b401-5cccbb8f79f5,3DPrinter-1000,2024-10-16 04:36:00,Emergency,132,1208.08,MT102,Critical failure in motor detected.
+35531a50-35fd-4b2c-9f5e-1d4f17f45390,Turbine-500,2024-10-17 16:51:00,Emergency,159,1034.91,MT105,Unexpected shutdown due to overheating.
+036acd23-a958-42ff-8a1b-2dc56acf5989,3DPrinter-1000,2024-10-17 23:06:00,Emergency,173,1108.5,MT105,Critical failure in motor detected.
+61a7a9d9-2947-4ed8-ba64-c10deda61462,DrillPress-100,2024-10-18 20:55:00,Unscheduled,55,229.57,MT102,Replaced small component due to wear.
+7448c7dc-e980-4d39-bd83-9f240c59256b,Press-700,2024-10-18 00:16:00,Emergency,126,1196.01,MT101,Unexpected shutdown due to overheating.
+02e3921a-d2b7-42db-b8f6-d45e845df256,3DPrinter-1000,2024-10-18 03:45:00,Scheduled,72,451.14,MT100,Calibrated machine settings.
+58cea57e-e95d-4d6f-bb13-57871b4764b4,RobotArm-600,2024-10-19 12:53:00,Scheduled,73,203.96,MT102,Routine check-up and lubrication.
+f984db55-0ec7-4d8e-b11c-83384e6dae65,LaserCutter-900,2024-10-19 01:01:00,Unscheduled,39,205.85,MT101,Replaced small component due to wear.
+35515724-b770-4588-9670-8b163f6e45b9,CNC-Mill-200,2024-10-20 23:55:00,Unscheduled,55,323.25,MT100,Replaced small component due to wear.
+d43988e6-442b-4380-9b98-e4d5da5da066,Conveyor-400,2024-10-22 03:00:00,Scheduled,83,437.02,MT104,Routine check-up and lubrication.
+ab513810-42e4-4dc4-b327-eab83f6a310e,RobotArm-600,2024-10-22 12:36:00,Emergency,142,830.6,MT103,Unexpected shutdown due to overheating.
+eff3967b-4be8-458a-85a1-39702b787fd9,Press-700,2024-10-22 20:51:00,Emergency,207,1274.51,MT101,Major repair: replaced defective component.
+50d9b170-c1c1-4d2e-9607-6c55738601d5,Grinder-800,2024-10-22 19:28:00,Unscheduled,45,296.86,MT101,Minor sensor recalibration required.
+2b39270f-9142-47fe-ac7e-4d9a1cfadae6,CNC-Mill-200,2024-10-23 18:05:00,Scheduled,101,387.46,MT100,Calibrated machine settings.
+5e2fe38a-638c-450f-b993-66f78702c484,Lathe-300,2024-10-23 20:53:00,Unscheduled,57,314.23,MT100,Minor sensor recalibration required.
+1eeaeaa1-fe2c-42ca-bbed-bc5b8a682089,Turbine-500,2024-10-23 11:51:00,Unscheduled,48,207.5,MT102,Replaced small component due to wear.
+5e287b66-d058-4039-906b-67c8f15a8961,RobotArm-600,2024-10-23 07:02:00,Emergency,214,1453.07,MT102,Major repair: replaced defective component.
+9db4a128-09ca-40b7-810b-957931ef570d,Press-700,2024-10-23 17:40:00,Scheduled,61,477.82,MT103,Replaced worn-out filters.
+57ef691b-a6ff-48bd-82bf-4e53f0e48744,Grinder-800,2024-10-23 16:58:00,Emergency,185,861.62,MT105,Major repair: replaced defective component.
+da747ca3-35a7-40b7-b4b3-40eef864dcda,Press-700,2024-10-24 15:39:00,Emergency,199,1225.38,MT101,Critical failure in motor detected.
+d42f8d97-b104-4751-ab8c-18b4443bdeb9,Grinder-800,2024-10-25 02:45:00,Unscheduled,43,351.75,MT101,Addressed minor leak in hydraulic system.
+08db89b0-28c0-4741-a195-9e0775d0fa7a,CNC-Mill-200,2024-10-26 00:03:00,Unscheduled,50,289.01,MT105,Addressed minor leak in hydraulic system.
+88045122-ee1b-450f-9cbc-f67e17f09f4a,Grinder-800,2024-10-27 02:23:00,Emergency,174,1339.1,MT100,Unexpected shutdown due to overheating.
+b4eef846-2f06-4bf0-b31e-6359a426cd1e,Turbine-500,2024-10-28 22:04:00,Emergency,174,1254.43,MT105,Unexpected shutdown due to overheating.
+ecba9e7f-dc09-4c18-80fa-fdbec35d791f,RobotArm-600,2024-10-28 14:04:00,Emergency,131,842.28,MT102,Unexpected shutdown due to overheating.
+9c062ebc-f7b5-4609-aae1-2b49abd9a6aa,DrillPress-100,2024-10-29 12:52:00,Scheduled,86,267.97,MT105,Replaced worn-out filters.
+056175e5-3c1e-44ae-974a-e1b8973d4224,CNC-Mill-200,2024-10-29 09:01:00,Emergency,182,1329.23,MT101,Major repair: replaced defective component.
+a3891be3-f5e6-439c-a68d-fddcdc2642df,Lathe-300,2024-10-30 08:44:00,Scheduled,78,447.83,MT104,Calibrated machine settings.
+c7689a6d-2e23-46c6-822e-fcd0f09ac495,Conveyor-400,2024-10-30 00:31:00,Unscheduled,58,241.15,MT101,Addressed minor leak in hydraulic system.
+ae386af0-a31f-448c-97cf-3af316fb6c37,Turbine-500,2024-10-30 14:28:00,Emergency,165,1017.98,MT100,Unexpected shutdown due to overheating.
+0d7fcbb8-0b56-47c1-adc0-18fd9ded455b,RobotArm-600,2024-10-30 22:00:00,Emergency,203,876.45,MT105,Critical failure in motor detected.
+72c360f9-4b97-4509-9fd6-af4f097dfd50,Lathe-300,2024-10-31 00:34:00,Unscheduled,49,349.48,MT100,Replaced small component due to wear.
+07617f1d-8199-426c-ab5b-7b0c34b3adba,Conveyor-400,2024-10-31 09:56:00,Emergency,209,1147.33,MT103,Critical failure in motor detected.
+6d20b523-c336-4574-a29c-aebd1f9276c0,Turbine-500,2024-10-31 02:07:00,Unscheduled,54,309.32,MT101,Minor sensor recalibration required.
+7b5660bd-4a98-433f-a7aa-91ae7266c8ff,LaserCutter-900,2024-10-31 18:00:00,Scheduled,101,423.16,MT102,Replaced worn-out filters.
+e411b80d-f5fb-44f2-b65b-6f9cadb53d55,Conveyor-400,2024-11-02 13:58:00,Emergency,181,1072.89,MT103,Unexpected shutdown due to overheating.
+b552c7a8-71eb-4388-a66a-1b8cccd25ee2,CNC-Mill-200,2024-11-03 13:28:00,Unscheduled,53,188.57,MT105,Replaced small component due to wear.
+1393d0bf-1f54-472f-ba18-2f88717420bd,RobotArm-600,2024-11-04 03:18:00,Emergency,195,916.26,MT104,Major repair: replaced defective component.
+041e99ce-a092-4a5e-904e-27cd5254e482,Grinder-800,2024-11-04 17:45:00,Scheduled,120,394.96,MT100,Replaced worn-out filters.
+5b499761-a7ce-41f5-b446-7025526deeff,LaserCutter-900,2024-11-04 12:53:00,Unscheduled,51,390.39,MT101,Addressed minor leak in hydraulic system.
+67eb0a18-a6b9-4667-957a-4d7fb015954b,Lathe-300,2024-11-05 15:46:00,Scheduled,106,444.49,MT104,Routine check-up and lubrication.
+0c6e4984-76ed-4017-b1fa-6c49e41ec31a,Conveyor-400,2024-11-05 08:28:00,Emergency,150,1386.5,MT101,Major repair: replaced defective component.
+945e92f2-d6e4-4a27-8cfb-87767982ba5d,Turbine-500,2024-11-05 15:57:00,Emergency,208,865.33,MT105,Major repair: replaced defective component.
+340df38a-130d-4720-90e8-a5b23ba5dd2e,RobotArm-600,2024-11-05 17:01:00,Unscheduled,42,353.98,MT103,Minor sensor recalibration required.
+1fb88af0-d75d-4f35-9434-e8730e8171ad,RobotArm-600,2024-11-06 17:06:00,Scheduled,89,463.82,MT103,Replaced worn-out filters.
+2ed3d0e2-2962-4f44-ae0e-b72ee44afea8,LaserCutter-900,2024-11-06 11:28:00,Scheduled,88,283.98,MT103,Calibrated machine settings.
+8be75e58-8d23-467d-a60e-1b81b53465d2,Turbine-500,2024-11-07 02:03:00,Scheduled,83,391.7,MT100,Routine check-up and lubrication.
+767d0a27-c613-4ea0-bb25-b1f5064c89a8,Turbine-500,2024-11-08 21:10:00,Scheduled,99,402.92,MT103,Calibrated machine settings.
+994067fc-91d1-4c05-b9fa-d0daf12a93d2,Lathe-300,2024-11-09 05:58:00,Scheduled,100,211.48,MT103,Routine check-up and lubrication.
+2b82cc4a-1457-454d-a725-de6f352a7265,LaserCutter-900,2024-11-09 07:38:00,Emergency,211,1014.85,MT101,Critical failure in motor detected.
+55a890f4-6757-4fa8-80d8-1ffd5268cb93,Press-700,2024-11-10 01:57:00,Scheduled,111,266.51,MT104,Replaced worn-out filters.
+09c79b5d-eb46-4e69-96a9-0ddbdfb90c8a,Grinder-800,2024-11-10 03:54:00,Emergency,148,1309.05,MT101,Unexpected shutdown due to overheating.
+e8498261-a96c-4f9b-bfa9-17fba8c646ac,Press-700,2024-11-11 10:09:00,Emergency,192,1294.81,MT103,Critical failure in motor detected.
+b25e7d5b-7624-4db0-8701-f8723b83711c,3DPrinter-1000,2024-11-11 23:43:00,Emergency,225,939.65,MT101,Unexpected shutdown due to overheating.
+273b30d7-0b76-4e96-8e06-f1b076ddef83,RobotArm-600,2024-11-12 01:36:00,Scheduled,63,369.79,MT102,Calibrated machine settings.
+2b214dd0-42f0-4b5b-bd05-e1ecff8680e7,3DPrinter-1000,2024-11-12 17:19:00,Emergency,212,890.4,MT102,Major repair: replaced defective component.
+771fe6f3-1bd7-4095-a779-40ab82a9b069,CNC-Mill-200,2024-11-13 17:40:00,Unscheduled,51,300.11,MT100,Minor sensor recalibration required.
+eec05ab6-511c-4a55-bb61-e2c96425eeef,Conveyor-400,2024-11-13 09:17:00,Scheduled,116,449.91,MT101,Routine check-up and lubrication.
+1023e6c7-45f5-43ec-bc07-1cc5bf46c738,RobotArm-600,2024-11-13 01:08:00,Emergency,122,1264.67,MT104,Unexpected shutdown due to overheating.
+d07700c7-2ebd-4649-8cc6-179dad68abec,Press-700,2024-11-13 19:04:00,Unscheduled,60,201.71,MT104,Minor sensor recalibration required.
+ede2def7-9116-4b40-8d69-bc65677ea25f,Grinder-800,2024-11-13 21:50:00,Scheduled,66,490.06,MT100,Routine check-up and lubrication.
+0dec116e-bed4-492c-b6e5-79b62d859ca6,CNC-Mill-200,2024-11-14 05:07:00,Emergency,199,1093.58,MT104,Major repair: replaced defective component.
+2fad70a0-275b-48cd-97ac-11c028654c29,Conveyor-400,2024-11-14 23:40:00,Emergency,179,1390.82,MT102,Unexpected shutdown due to overheating.
+39b8ba50-886e-42c1-8cd5-b9f4091cddbe,LaserCutter-900,2024-11-14 23:33:00,Scheduled,103,285.19,MT103,Replaced worn-out filters.
+9591a181-e48c-4459-a131-35e4d224643e,DrillPress-100,2024-11-15 04:35:00,Scheduled,91,330.71,MT102,Calibrated machine settings.
+f1156e1e-4b3c-4ab2-81c7-bee2cd206231,CNC-Mill-200,2024-11-15 12:15:00,Unscheduled,50,325.49,MT103,Replaced small component due to wear.
+4a54d92d-27bb-4236-b001-3a1d55eda3f2,Conveyor-400,2024-11-15 17:46:00,Emergency,142,1119.95,MT104,Unexpected shutdown due to overheating.
+f0d890aa-8bab-4d2e-bda9-e09534aef6b8,Press-700,2024-11-15 19:27:00,Scheduled,61,347.72,MT101,Replaced worn-out filters.
+ac2e99e0-7b7e-4d9a-ad11-766555344082,LaserCutter-900,2024-11-15 15:16:00,Scheduled,66,339.83,MT102,Replaced worn-out filters.
+265674b1-75ba-40ae-bae5-a5eb47a22ea8,Lathe-300,2024-11-16 15:26:00,Scheduled,61,397.7,MT103,Calibrated machine settings.
+f74b5caa-f53c-4627-88d5-9a9a52994a76,Grinder-800,2024-11-16 00:10:00,Emergency,132,1244.3,MT105,Major repair: replaced defective component.
+0ca8b074-5786-4b1a-9b6e-dc5f8f182057,Conveyor-400,2024-11-17 04:27:00,Emergency,209,1497.8,MT105,Critical failure in motor detected.
+002999f5-c036-4767-a38f-72272f7196aa,LaserCutter-900,2024-11-17 22:46:00,Scheduled,111,250.03,MT100,Replaced worn-out filters.
+5887145e-cd9b-4587-bd66-6b414ec38ccb,LaserCutter-900,2024-11-18 03:33:00,Emergency,212,1375.71,MT103,Critical failure in motor detected.
+250c1114-ea7a-4d60-a642-226b732cd1a3,3DPrinter-1000,2024-11-18 04:57:00,Scheduled,104,240.48,MT100,Routine check-up and lubrication.
+0bd4e7b3-c7c3-482a-84d3-5df34848cf9c,Turbine-500,2024-11-19 13:53:00,Emergency,180,1380.45,MT100,Critical failure in motor detected.
+db5bba1a-641e-4b71-849b-42fc3af28dc3,Turbine-500,2024-11-20 22:07:00,Scheduled,110,481.03,MT104,Routine check-up and lubrication.
+1043f348-ed2f-4846-b834-20adf1e13dc5,RobotArm-600,2024-11-20 08:59:00,Unscheduled,54,342.01,MT101,Addressed minor leak in hydraulic system.
+04827e12-0277-45e5-baf1-11d0e9490dc3,DrillPress-100,2024-11-21 22:37:00,Scheduled,107,233.07,MT100,Routine check-up and lubrication.
+68213a22-8efd-4631-9315-3f40faa82ef5,CNC-Mill-200,2024-11-21 08:15:00,Scheduled,94,365.68,MT104,Replaced worn-out filters.
+a7db5814-5921-4fc4-9628-0a159db188d1,Grinder-800,2024-11-21 17:28:00,Scheduled,82,405.41,MT104,Routine check-up and lubrication.
+897f369b-64e9-49cd-b686-764e70c3d6c1,LaserCutter-900,2024-11-21 02:47:00,Unscheduled,38,198.16,MT105,Addressed minor leak in hydraulic system.
+29e89190-da74-41d0-86a6-4cf4ee329f7e,3DPrinter-1000,2024-11-21 10:48:00,Unscheduled,31,216.93,MT101,Addressed minor leak in hydraulic system.
+705d9789-582f-4a0f-ba9b-cba9a27858e9,Press-700,2024-11-22 04:58:00,Scheduled,94,254.08,MT101,Replaced worn-out filters.
+f6ee154b-8b2c-4178-a7e8-53cae3330976,3DPrinter-1000,2024-11-22 10:07:00,Unscheduled,40,367.02,MT105,Minor sensor recalibration required.
+e1cff562-3456-4c04-9761-7fec4e043fde,Grinder-800,2024-11-24 23:45:00,Emergency,193,1081.2,MT101,Critical failure in motor detected.
+e5f967ec-854f-4892-85d8-8c8bdc22a66c,LaserCutter-900,2024-11-24 13:11:00,Emergency,129,1284.93,MT104,Major repair: replaced defective component.
+61d47be1-4632-4c46-8ac8-22a14addb8fb,3DPrinter-1000,2024-11-24 16:46:00,Unscheduled,31,364.4,MT105,Minor sensor recalibration required.
+49bf7197-4e47-4750-a36a-6f068904b73b,3DPrinter-1000,2024-11-25 14:28:00,Unscheduled,40,210.57,MT102,Replaced small component due to wear.
+9b00cca5-ed07-4638-a783-49afe84ae9d1,Turbine-500,2024-11-26 08:20:00,Unscheduled,54,302.51,MT104,Replaced small component due to wear.
+48d2e22f-1827-400c-a45d-4543e376b3d5,Press-700,2024-11-26 17:26:00,Unscheduled,48,254.4,MT102,Minor sensor recalibration required.
+ad52178a-d936-432f-9a06-753317970af6,Grinder-800,2024-11-26 14:23:00,Emergency,200,1281.41,MT105,Critical failure in motor detected.
+d85d90f6-45ae-4d59-a31f-9d10f6ac58ca,3DPrinter-1000,2024-11-26 01:36:00,Emergency,204,1158.71,MT101,Major repair: replaced defective component.
+e0334e0e-d9c5-454a-89cb-2884a395790d,Conveyor-400,2024-11-27 12:17:00,Unscheduled,46,217.39,MT100,Minor sensor recalibration required.
+99ad8c40-045f-4a41-83b5-f0087515d69e,Grinder-800,2024-11-27 03:43:00,Emergency,229,832.46,MT103,Major repair: replaced defective component.
+49b721a2-1914-4ba6-a00a-765c5fd59a5d,DrillPress-100,2024-11-28 23:09:00,Unscheduled,60,342.14,MT101,Replaced small component due to wear.
+736a6e16-08c9-44cf-9b8c-7c0c211b4432,CNC-Mill-200,2024-11-28 21:50:00,Emergency,121,1002.75,MT105,Major repair: replaced defective component.
+bdd6c226-c1b4-48fd-b1ce-47623de6e2bc,RobotArm-600,2024-11-28 21:44:00,Unscheduled,32,196.91,MT103,Replaced small component due to wear.
+15c5623a-4bae-4878-a6e6-69025b2a8a32,Press-700,2024-11-28 16:52:00,Scheduled,77,275.15,MT102,Replaced worn-out filters.
+5afc23b3-26bf-4a9d-a67b-9ce0d94f16c4,LaserCutter-900,2024-11-28 15:50:00,Unscheduled,57,326.09,MT105,Addressed minor leak in hydraulic system.
+f95b03c1-e284-4604-8924-14abd1fb4fb5,3DPrinter-1000,2024-11-28 21:18:00,Scheduled,80,202.48,MT104,Calibrated machine settings.
+0bbaa695-69d0-4545-9643-544d85ab8cf3,LaserCutter-900,2024-11-29 19:53:00,Scheduled,79,268.32,MT100,Calibrated machine settings.
+3ab5bbe4-cffe-4b4c-b3ec-6b7e879b4c0b,3DPrinter-1000,2024-11-29 02:48:00,Scheduled,83,324.96,MT105,Calibrated machine settings.
+7bffc705-6950-4306-b8e4-52431cc9a2d8,DrillPress-100,2024-11-30 18:58:00,Emergency,164,1291.8,MT104,Critical failure in motor detected.
+7904d20f-2b3b-4598-bd06-1811c99bac94,CNC-Mill-200,2024-11-30 02:00:00,Unscheduled,40,388.88,MT103,Addressed minor leak in hydraulic system.
+4fff1039-b02c-4c8a-8062-3f95e1dc6c57,Turbine-500,2024-11-30 16:58:00,Unscheduled,60,354.96,MT105,Minor sensor recalibration required.
+c01a5286-030e-4a7a-84a2-77b32c64dfbf,DrillPress-100,2024-12-01 14:20:00,Unscheduled,47,201.5,MT105,Minor sensor recalibration required.
+e19dd49c-9c25-422a-829e-516596c755c5,Grinder-800,2024-12-01 19:36:00,Emergency,198,1265.62,MT102,Critical failure in motor detected.
+2460404c-2453-47db-a277-4bc3ac376769,LaserCutter-900,2024-12-01 09:13:00,Emergency,216,1486.73,MT102,Unexpected shutdown due to overheating.
+d0d2e98c-a3a5-4984-9f0b-a62dd976071f,3DPrinter-1000,2024-12-01 16:32:00,Emergency,185,818.59,MT102,Major repair: replaced defective component.
+5bffbc4b-79be-4777-b7ad-21af7986ed6f,Conveyor-400,2024-12-02 21:34:00,Emergency,125,1269.11,MT100,Unexpected shutdown due to overheating.
+54143fa3-0597-4cbf-9000-7ae6ab01b50d,Turbine-500,2024-12-02 02:43:00,Scheduled,86,257.99,MT103,Routine check-up and lubrication.
+fdf1f306-6ace-4d87-9b48-81edb408b7ec,Grinder-800,2024-12-02 21:18:00,Emergency,127,1005.1,MT105,Unexpected shutdown due to overheating.
+7ef495ca-6ec8-4772-a7b6-7ae4c5c682c5,3DPrinter-1000,2024-12-02 15:16:00,Scheduled,69,341.63,MT100,Replaced worn-out filters.
+699d2da4-9e93-45de-8cbd-4aa1873a3c28,Lathe-300,2024-12-03 11:19:00,Scheduled,89,262.35,MT103,Replaced worn-out filters.
+6a557842-95c1-410d-9fb9-14a6e5414ef8,Press-700,2024-12-03 23:07:00,Emergency,217,1016.95,MT103,Unexpected shutdown due to overheating.
+5f39b0e0-b75d-48c9-a027-07f469fb4a98,LaserCutter-900,2024-12-03 13:28:00,Scheduled,80,413.99,MT100,Routine check-up and lubrication.
+f80da8e7-c692-4ae6-80fb-e1157c3a9bdd,3DPrinter-1000,2024-12-03 05:58:00,Emergency,126,851.92,MT103,Major repair: replaced defective component.
+de3218f3-bec8-4b3b-b570-91c891723995,CNC-Mill-200,2024-12-04 12:23:00,Unscheduled,44,187.39,MT100,Replaced small component due to wear.
+0f31dbf2-c36a-4ea9-87bc-67ddf0d4adbb,Turbine-500,2024-12-04 22:40:00,Unscheduled,38,238.94,N/A,Addressed minor leak in hydraulic system.
+0bb1d61b-5f8d-49a6-98d6-115260d9d2b6,Grinder-800,2024-12-04 03:09:00,Scheduled,97,382.33,MT101,Calibrated machine settings.
+0e4f3808-4f04-4f27-818f-18872fb6d52e,LaserCutter-900,2024-12-04 10:15:00,Emergency,190,980.73,MT103,Critical failure in motor detected.
+c8461824-5663-4499-a607-8d4f31355581,DrillPress-100,2024-12-05 14:17:00,Unscheduled,36,173.55,MT100,Replaced small component due to wear.
+b9b3059b-3108-4215-aaf9-473f99e4ea5a,Turbine-500,2024-12-05 22:24:00,Unscheduled,54,186.74,MT100,Minor sensor recalibration required.
+3e267fbe-dad3-402d-9411-d2141833ea46,Press-700,2024-12-05 20:04:00,Unscheduled,51,318.43,MT103,Replaced small component due to wear.
+4a965b7a-a24f-4854-b0b8-e0f42e2fabba,3DPrinter-1000,2024-12-05 20:16:00,Scheduled,119,358.42,MT100,Calibrated machine settings.
+376b4589-daa8-4d17-8de0-e80269c467ad,Grinder-800,2024-12-06 13:18:00,Scheduled,118,350.6,MT104,Routine check-up and lubrication.
+409e4f01-c517-467f-b743-727331dfe1fb,Turbine-500,2024-12-07 05:22:00,Scheduled,60,279.5,MT102,Calibrated machine settings.
+097cb016-e7fa-493f-9114-3395c9ef54c5,Press-700,2024-12-07 14:02:00,Emergency,217,1189.69,MT100,Major repair: replaced defective component.
+6c96787c-11c2-4f06-a9de-63caf7b6e8ea,3DPrinter-1000,2024-12-07 08:48:00,Unscheduled,47,252.29,MT101,Replaced small component due to wear.
+4ec7a3ed-560a-48ab-ba6e-371eafe79949,3DPrinter-1000,2024-12-08 11:53:00,Scheduled,114,346.42,MT105,Replaced worn-out filters.
+c03c2290-24c4-457d-b458-f2ce4dd8ddf2,Lathe-300,2024-12-09 21:36:00,Emergency,141,903.22,MT100,Critical failure in motor detected.
+48020aad-81be-4efa-8ba2-9661563371f5,Press-700,2024-12-09 22:52:00,Scheduled,79,350.4,MT100,Routine check-up and lubrication.
+09937dba-4ed2-4cc4-abb9-1a059487e640,3DPrinter-1000,2024-12-09 10:45:00,Unscheduled,45,250.03,MT101,Minor sensor recalibration required.
+11c62c1f-125f-4758-b415-6699c91c9ec3,DrillPress-100,2024-12-10 10:35:00,Unscheduled,43,201.87,MT103,Replaced small component due to wear.
+ea48bc8f-f9a4-4f43-a824-d2f01836807b,Lathe-300,2024-12-10 18:26:00,N/A,42,266.13,MT104,Minor sensor recalibration required.
+f28ef984-3191-4ad0-b1ad-9f77755f1dbe,Turbine-500,2024-12-10 18:25:00,Scheduled,86,323.17,MT102,Calibrated machine settings.
+8e9eac50-7a07-49de-b615-ecbce0f3f713,RobotArm-600,2024-12-10 04:59:00,Scheduled,109,222.88,MT101,Routine check-up and lubrication.
+d6170a3e-0400-4700-8c4e-967052de1e45,Press-700,2024-12-10 11:13:00,Unscheduled,57,164.19,MT103,Addressed minor leak in hydraulic system.
+ef5e41e3-3f69-402d-bc9e-77a42df9baab,Conveyor-400,2024-12-11 13:52:00,Unscheduled,42,347.81,MT105,Replaced small component due to wear.
+3fbbac91-d49f-46dc-a663-6842e3eb971a,RobotArm-600,2024-12-11 19:20:00,Scheduled,84,419.85,MT102,Replaced worn-out filters.
+0efedc87-d59a-4f4a-b52f-4f58b800540e,3DPrinter-1000,2024-12-11 11:03:00,Unscheduled,44,209.08,MT104,Addressed minor leak in hydraulic system.
+3b00d88f-b59f-406a-85f4-4a0f6340b558,DrillPress-100,2024-12-12 09:27:00,Scheduled,94,228.17,MT105,Replaced worn-out filters.
+4fa1bf17-06e8-43dc-acf7-0648bddd4186,Conveyor-400,2024-12-12 18:32:00,Unscheduled,51,326.32,MT104,Minor sensor recalibration required.
+12de77eb-51fe-4773-a31a-08b970ddfec5,RobotArm-600,2024-12-12 23:08:00,Emergency,138,1410.59,MT103,Critical failure in motor detected.
+dee8e3fd-3b9f-4abc-a9fa-a4a33899284b,Press-700,2024-12-12 02:47:00,Scheduled,95,498.21,MT103,Calibrated machine settings.
+a6367bda-e048-462c-847d-1df9b614d5a1,DrillPress-100,2024-12-13 12:54:00,Emergency,225,1006.54,MT104,Unexpected shutdown due to overheating.
+1374dbd5-50a0-4ed2-a5d7-b07dea58dacb,CNC-Mill-200,2024-12-13 10:43:00,Scheduled,69,274.61,MT105,Replaced worn-out filters.
+efdf49ba-96d1-4c8e-ab39-2c0bc01e4e2b,Grinder-800,2024-12-13 04:54:00,Unscheduled,58,262.94,MT104,Minor sensor recalibration required.
+9ee02fd4-ba5f-480d-8c78-f5be1c75680a,3DPrinter-1000,2024-12-13 13:39:00,Emergency,123,1126.68,MT103,Unexpected shutdown due to overheating.
+79e6f224-d5c1-479a-bd1a-fae18fb98b7b,Turbine-500,2024-12-14 03:22:00,Emergency,218,1414.64,MT100,Unexpected shutdown due to overheating.
+24f77084-323d-4e22-9c83-90c2c0ea8325,LaserCutter-900,2024-12-14 08:08:00,Scheduled,79,382.66,MT105,Routine check-up and lubrication.
+065c48a5-233b-4d0d-8d89-f6475c60b7f9,3DPrinter-1000,2024-12-15 12:05:00,Scheduled,80,387.29,MT102,Replaced worn-out filters.
+2f665e17-998c-4d26-9ee3-a75aafbda0a0,Press-700,2024-12-16 10:44:00,Emergency,130,1025.56,MT101,Unexpected shutdown due to overheating.
+3023d493-e319-49a1-ae99-687599724724,Grinder-800,2024-12-16 11:54:00,Emergency,177,1107.05,MT100,Unexpected shutdown due to overheating.
+13b59d05-2ded-4a3d-9e75-72d4fba186c2,RobotArm-600,2024-12-17 04:00:00,Emergency,136,807.45,MT104,Critical failure in motor detected.
+9841df47-f823-4b2f-855b-36b5b41b118f,Grinder-800,2024-12-17 23:12:00,Unscheduled,40,234.42,MT104,Replaced small component due to wear.
+fae88dab-367b-4725-8b91-4051c8c6af38,3DPrinter-1000,2024-12-18 18:24:00,Emergency,204,970.02,MT104,Major repair: replaced defective component.
+3b287749-d6ce-4b15-a800-617f5ded6132,DrillPress-100,2024-12-19 04:30:00,Scheduled,62,459.71,MT100,Routine check-up and lubrication.
+33ab062f-2409-41d6-b466-6e9a2e542795,Lathe-300,2024-12-19 02:01:00,Scheduled,113,200.77,MT105,Routine check-up and lubrication.
+9c9c29e5-70c0-4cf8-bbfd-20c935843fc8,Grinder-800,2024-12-19 12:36:00,Scheduled,70,498.82,MT104,Replaced worn-out filters.
+d6971a69-82cb-4065-88c6-ed6ad292af42,Grinder-800,2024-12-20 22:21:00,Unscheduled,56,242.37,MT103,Addressed minor leak in hydraulic system.
+e44eddf4-d3d6-4de6-8c52-085ab0f75457,Lathe-300,2024-12-21 17:51:00,Scheduled,94,390.42,MT103,Calibrated machine settings.
+409252c5-f536-4b14-a363-244df1cd2f3c,RobotArm-600,2024-12-21 03:53:00,Emergency,179,1472.55,MT100,Major repair: replaced defective component.
+873e6e67-08ba-4add-ba76-393b5882d50d,Grinder-800,2024-12-21 08:17:00,Unscheduled,42,164.85,MT104,Addressed minor leak in hydraulic system.
+984dc12f-c4da-4e1c-b9a9-b81fc600507d,3DPrinter-1000,2024-12-21 06:16:00,Scheduled,93,414.97,MT103,Routine check-up and lubrication.
+3b267508-f432-44c3-8fd3-7ceb6c49f544,Lathe-300,2024-12-22 20:54:00,Unscheduled,58,278.8,MT100,Minor sensor recalibration required.
+aa25721d-bf64-4456-82a6-64475d3a7324,Turbine-500,2024-12-22 23:16:00,Emergency,180,845.15,MT100,Major repair: replaced defective component.
+5cb1f162-a2e0-4c3a-a093-ee4b26cd9da8,3DPrinter-1000,2024-12-22 06:26:00,Emergency,230,1109.89,MT101,Critical failure in motor detected.
+54e6294b-2695-43d6-8812-b1f38ff1d1ad,DrillPress-100,2024-12-23 12:53:00,Emergency,154,1223.68,MT104,Major repair: replaced defective component.
+b6f215d4-ba11-49de-a459-f1f325d3bc74,3DPrinter-1000,2024-12-23 13:42:00,Scheduled,98,204.04,MT104,Calibrated machine settings.
+a34f2c3f-cfa1-4d0b-873d-b36aa168b070,DrillPress-100,2024-12-24 02:16:00,Unscheduled,41,268.44,MT100,Replaced small component due to wear.
+e4b4a1b5-ecb4-4e7a-8539-db6eab126c2f,CNC-Mill-200,2024-12-24 09:52:00,Scheduled,77,348.21,MT101,Calibrated machine settings.
+a679ab48-f34d-4b3f-b2a8-311747f5d9ef,RobotArm-600,2024-12-24 22:15:00,Scheduled,63,316.53,MT103,Replaced worn-out filters.
+2faef326-602b-4c1e-a3f3-aafd74abcd85,Grinder-800,2024-12-24 14:23:00,Scheduled,115,385.84,MT102,Replaced worn-out filters.
+77caf0ec-7ce9-4543-a8cd-944aea80570d,DrillPress-100,2024-12-25 11:28:00,Scheduled,100,367.43,MT104,Calibrated machine settings.
+d06fac80-dda4-4033-8aac-d4d58667ceea,RobotArm-600,2024-12-25 09:10:00,Emergency,171,1213.0,MT104,Unexpected shutdown due to overheating.
+34296781-7f50-453b-a99c-81fdbffa0afb,Press-700,2024-12-25 00:55:00,Scheduled,97,477.45,MT102,Replaced worn-out filters.
+46d0f5d0-f5b3-405f-b441-80b12753f717,Grinder-800,2024-12-26 23:44:00,Unscheduled,49,251.03,MT102,Minor sensor recalibration required.
+059b90ba-14a5-4ce6-a4aa-75400bf55776,DrillPress-100,2024-12-27 14:59:00,Unscheduled,50,280.99,MT102,Minor sensor recalibration required.
+2ce5038f-d121-47b9-bc07-21cbdf44aec6,CNC-Mill-200,2024-12-27 12:18:00,Emergency,167,1412.29,MT104,Major repair: replaced defective component.
+fd5e8fb2-6c8f-4602-959a-b01351e779a7,Press-700,2024-12-27 09:44:00,Unscheduled,44,313.15,MT102,Replaced small component due to wear.
+1cefcf51-bbb9-49dc-9014-4ac144ae77fa,Grinder-800,2024-12-27 21:13:00,Scheduled,90,297.37,MT105,Routine check-up and lubrication.
+cbe7c2b5-289e-487e-8b77-5a2d22513082,CNC-Mill-200,2024-12-28 16:05:00,Unscheduled,34,327.26,MT104,Replaced small component due to wear.
+55830fd1-16f4-4112-b5f5-3e18903228af,Turbine-500,2024-12-28 17:24:00,Scheduled,106,271.0,MT101,Replaced worn-out filters.
+ac8bdce6-0f9b-4b46-977a-cb1210018a45,RobotArm-600,2024-12-28 08:15:00,Emergency,161,1411.01,MT104,Major repair: replaced defective component.
+75abcb60-f239-4607-8865-1c3805af2493,Grinder-800,2024-12-28 15:00:00,Scheduled,88,465.66,MT100,Calibrated machine settings.
+93aacb3b-e798-4f6e-8cba-ff00a49e8872,DrillPress-100,2024-12-29 22:04:00,Scheduled,111,425.02,MT103,Replaced worn-out filters.
+77a24c55-e96f-4109-9a59-a947c576e5b9,Conveyor-400,2024-12-29 22:07:00,Scheduled,111,311.87,MT104,Replaced worn-out filters.
+c9e0dcad-81d1-40ee-9fea-b3b5e7d212d6,DrillPress-100,2024-12-30 16:28:00,Unscheduled,42,279.89,MT105,Addressed minor leak in hydraulic system.
+f33a6636-9fcd-4288-bf78-5b7b03e41e24,Turbine-500,2024-12-30 22:42:00,Scheduled,106,347.06,MT104,Calibrated machine settings.
+b44f1fda-e605-4d4f-853b-3304b2300ed0,RobotArm-600,2024-12-30 12:33:00,Unscheduled,36,236.9,MT103,Replaced small component due to wear.
+cba33f65-8c83-4fcf-8d3c-a43839e61ffc,Press-700,2024-12-30 03:18:00,Emergency,129,1066.89,MT105,Unexpected shutdown due to overheating.
+47b4ddaf-7cb2-4786-b350-b483a7942dab,LaserCutter-900,2024-12-30 01:10:00,Emergency,181,897.55,MT103,Critical failure in motor detected.
+87ed8970-e13f-4ab7-b2f2-cc3647b5fb4f,CNC-Mill-200,2024-12-31 21:43:00,Scheduled,116,446.59,MT101,Routine check-up and lubrication.
+df927acc-84c6-4473-823f-2c3784614a9c,Turbine-500,2024-12-31 22:22:00,Scheduled,105,300.28,MT101,Replaced worn-out filters.
+1e65221f-6390-4743-9084-98b4e8aa75dc,3DPrinter-1000,2024-12-31 02:08:00,Unscheduled,34,295.43,MT103,Replaced small component due to wear.
+211b21b1-f7d7-49a2-87b7-1c44e19ce708,DrillPress-100,2025-01-02 02:10:00,Scheduled,81,455.14,MT101,Replaced worn-out filters.
+45d4c32c-d9c0-4e4f-9a24-3d1114dc9e89,LaserCutter-900,2025-01-02 06:18:00,Emergency,171,995.37,MT105,Critical failure in motor detected.
+f68ea071-0b8b-43a6-8e00-70dcd89ca89c,DrillPress-100,2025-01-03 08:22:00,Unscheduled,54,195.61,MT101,Minor sensor recalibration required.
+69fa6428-8f03-411e-9815-995328a3e4c8,LaserCutter-900,2025-01-03 00:41:00,Unscheduled,45,175.51,MT103,Addressed minor leak in hydraulic system.
+d2777cec-e82c-410e-a7bf-0112ede0ea76,3DPrinter-1000,2025-01-03 06:53:00,Unscheduled,45,392.75,MT105,Replaced small component due to wear.
+ee75d88e-694b-4f6a-9c1a-ad2f58d3beda,RobotArm-600,2025-01-04 09:42:00,Emergency,176,1486.64,MT102,Major repair: replaced defective component.
+21e4f0ba-c8b6-4e99-bc5a-9c196f022d2a,LaserCutter-900,2025-01-04 14:05:00,Scheduled,93,448.02,MT104,Routine check-up and lubrication.
+f7592d66-a383-45a4-9912-77f64c9d1f2d,3DPrinter-1000,2025-01-04 09:53:00,Unscheduled,50,168.56,MT105,Addressed minor leak in hydraulic system.
+e061d26e-c9ea-47b4-b3de-6b98925a53d6,CNC-Mill-200,2025-01-05 13:33:00,Scheduled,103,477.18,MT100,Calibrated machine settings.
+90cc18e2-a8c9-4364-a066-013124e44ebf,Lathe-300,2025-01-05 17:34:00,Scheduled,86,434.48,MT105,Calibrated machine settings.
+a6ef3903-cea6-46be-a73c-590eadab0581,CNC-Mill-200,2025-01-06 19:00:00,Scheduled,94,268.94,MT104,Replaced worn-out filters.
+c0ea9ca5-c11f-47b8-a8ad-66e60e8bbb94,RobotArm-600,2025-01-06 09:15:00,Unscheduled,40,299.87,MT103,Minor sensor recalibration required.
+337cc0a0-6051-4193-b242-3b0643a08a92,DrillPress-100,2025-01-07 11:06:00,Scheduled,114,229.18,MT103,Replaced worn-out filters.
+104da7f5-f338-4e34-950f-ac1a1b190598,CNC-Mill-200,2025-01-07 21:38:00,Scheduled,91,257.64,MT104,Replaced worn-out filters.
+414e229f-f053-4a93-9726-4ce33b93ce5f,Lathe-300,2025-01-07 19:08:00,Unscheduled,46,266.71,MT103,Addressed minor leak in hydraulic system.
+de1111b6-dbbd-4659-86d9-08bd3c3f7090,Conveyor-400,2025-01-07 04:01:00,Scheduled,69,387.38,MT101,Calibrated machine settings.
+8e00199b-9608-4698-a3af-cb2e19ddcee8,RobotArm-600,2025-01-07 01:31:00,Scheduled,107,263.82,MT100,Calibrated machine settings.
+c8a51936-e0cf-4335-975e-6230d2eca1f6,CNC-Mill-200,2025-01-08 10:37:00,Scheduled,77,370.72,MT104,Replaced worn-out filters.
+1ee4ac9c-bd35-4b33-8bac-7b6f974ac2a9,Conveyor-400,2025-01-08 13:26:00,Scheduled,84,271.37,MT105,Calibrated machine settings.
+8116678a-2a6d-46ca-aac1-c2b756314d6f,RobotArm-600,2025-01-08 09:46:00,Scheduled,81,281.0,MT105,Replaced worn-out filters.
+6a3a89f8-af97-4b4c-924e-00e293eaa19f,Grinder-800,2025-01-08 17:47:00,Scheduled,61,468.16,MT101,Routine check-up and lubrication.
