@@ -1,0 +1,65 @@
+{
+    "bronze": [
+        {
+            "file": "car_sales_data",
+            "records": 24183,
+            "size_bytes": 3183621,
+            "format": "csv",
+            "ingestion_time_s": 1.5914323329925537,
+            "timestamp": "2025-03-20 08:28:53.256741"
+        },
+        {
+            "file": "companies_data",
+            "records": 30,
+            "size_bytes": 3666,
+            "format": "json",
+            "ingestion_time_s": 0.7009341716766357,
+            "timestamp": "2025-03-20 08:29:01.483819"
+        },
+        {
+            "file": "customers_data",
+            "records": 23906,
+            "size_bytes": 900887,
+            "format": "csv",
+            "ingestion_time_s": 1.2772111892700195,
+            "timestamp": "2025-03-20 08:29:07.903172"
+        }
+    ],
+    "silver": [
+        {
+            "file": "car_sales_data",
+            "old_records": 24183,
+            "missing_values": 63,
+            "duplicates": 301,
+            "anomalies": 6,
+            "new_records": 23813,
+            "timestamp": "2025-03-20 08:29:41.131898"
+        },
+        {
+            "file": "companies_data",
+            "old_records": 30,
+            "missing_values": 0,
+            "duplicates": 0,
+            "anomalies": 0,
+            "new_records": 30,
+            "timestamp": "2025-03-20 08:29:53.109492"
+        },
+        {
+            "file": "customers_data",
+            "old_records": 23906,
+            "missing_values": 24,
+            "duplicates": 403,
+            "anomalies": 0,
+            "new_records": 23479,
+            "timestamp": "2025-03-20 08:30:06.899243"
+        }
+    ],
+    "gold": [
+        {
+            "car_sale_records_before_joins": 23813,
+            "car_sale_records_after_join_company": 23813,
+            "car_sale_records_after_join_customers": 23388,
+            "timestamp": "2025-03-20 08:30:46.346716"
+        }
+    ]
+}

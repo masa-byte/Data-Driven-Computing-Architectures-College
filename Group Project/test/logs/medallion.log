@@ -1,0 +1,18 @@
+INFO: bronze_ingestion | Raw car_sales_data successfully read | 2025-03-20 11:20:38
+INFO: bronze_ingestion | Raw car_sales_data successfully ingested into the Bronze Layer | 2025-03-20 11:20:45
+INFO: bronze_ingestion | Raw companies_data successfully read | 2025-03-20 11:20:47
+INFO: bronze_ingestion | Raw companies_data successfully ingested into the Bronze Layer | 2025-03-20 11:20:52
+INFO: bronze_ingestion | Raw customers_data successfully read | 2025-03-20 11:20:54
+INFO: bronze_ingestion | Raw customers_data successfully ingested into the Bronze Layer | 2025-03-20 11:20:59
+INFO: silver_ingestion | Cleaned car_sales_data successfully stored in the Silver Layer | 2025-03-20 11:21:27
+INFO: silver_ingestion | Cleaned company_data successfully stored in the Silver Layer | 2025-03-20 11:21:41
+INFO: silver_ingestion | Cleaned customers_data successfully stored in the Silver Layer | 2025-03-20 11:21:56
+INFO: schema validation | Schema validation passed | 2025-03-20 11:22:01
+INFO: data integrity check | Cleaned car_sales_data successfully saved at /Workspace/Users/masa.cirkovic@abo.fi/processed_data/car_sales_data.csv | 2025-03-20 11:22:09
+INFO: schema validation | Schema validation passed | 2025-03-20 11:22:09
+INFO: data integrity check | Cleaned companies_data successfully saved at /Workspace/Users/masa.cirkovic@abo.fi/processed_data/companies_data.csv | 2025-03-20 11:22:12
+INFO: schema validation | Schema validation passed | 2025-03-20 11:22:12
+INFO: data integrity check | Cleaned customers_data successfully saved at /Workspace/Users/masa.cirkovic@abo.fi/processed_data/customers_data.csv | 2025-03-20 11:22:17
+INFO: gold_ingestion | Partitioned data by 'dealer_region' successfully stored in the Gold Layer | 2025-03-20 11:22:32
+INFO: gold_ingestion | Z-Ordering successfully applied to the Golden Layer by 'date' and 'price_$'. | 2025-03-20 11:22:36
+INFO: saving statistics | Medallion pipeline statistics JSON file saved to /Workspace/Users/masa.cirkovic@abo.fi/medallion/statistics.json | 2025-03-20 11:22:41

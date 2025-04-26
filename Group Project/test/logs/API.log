@@ -1,0 +1,9 @@
+INFO: get / | Root endpoint accessed | 2025-03-20 11:32:07
+INFO: get /golden_data | Request received: date=None, region=None, company=None | 2025-03-20 11:32:28
+INFO: get /golden_data | Request received: date=None, region=None, company=ford | 2025-03-20 11:32:45
+INFO: get /golden_data | Request received: date=None, region=pasco, company=None | 2025-03-20 11:33:07
+INFO: get /golden_data | Request received: date=2020, region=None, company=None | 2025-03-20 11:33:21
+INFO: get /golden_data | Request received: date=not_a_date, region=None, company=None | 2025-03-20 11:33:32
+ERROR: get /golden_data | Invalid date format: Unknown string format: not_a_date present at position 0 | 2025-03-20 11:33:32
+INFO: get /golden_data | Request received: date=2022-06-15, region=None, company=None | 2025-03-20 11:33:41
+INFO: get /download_golden_data | Request received | 2025-03-20 11:34:16

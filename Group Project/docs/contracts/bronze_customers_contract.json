@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "layer": "bronze",
+    "source": "file:/Workspace/Users/masa.cirkovic@abo.fi/rawdata/customers_data.csv",
+    "format": "csv",
+    "ingestion_process": "batch_ingestion",
+    "schema": {
+        "car_id": "string",
+        "name": "string",
+        "gender": "string",
+        "annual_income": "int"
+    }
+}

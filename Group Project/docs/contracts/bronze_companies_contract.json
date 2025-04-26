@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+    "layer": "bronze",
+    "source": "file:/Workspace/Users/masa.cirkovic@abo.fi/rawdata/companies_data.json",
+    "format": "json",
+    "ingestion_process": "batch_ingestion",
+    "schema": {
+        "company_id": "string",
+        "company_name": "string",
+        "company_type": "string",
+        "founding_year": "int",
+        "headquarters": "string"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "version": "1.0",
+    "layer": "silver",
+    "source": "bronze_customers_data",
+    "format": "dataframe",
+    "schema": {
+        "car_id": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "name": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "gender": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "annual_income_$": {
+            "type": "int",
+            "rules": [
+                "greater_than_0",
+                "not_null"
+            ]
+        }
+    }
+}

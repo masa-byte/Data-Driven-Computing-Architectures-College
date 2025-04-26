@@ -1,0 +1,38 @@
+{
+    "version": "1.0",
+    "layer": "silver",
+    "source": "bronze_companies_data",
+    "format": "dataframe",
+    "schema": {
+        "company_id": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "company_name": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "company_type": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "founding_year": {
+            "type": "int",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "headquarters": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        }
+    }
+}

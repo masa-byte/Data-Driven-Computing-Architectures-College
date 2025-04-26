@@ -1,0 +1,75 @@
+{
+    "version": "1.0",
+    "layer": "silver",
+    "source": "bronze_car_sales_data",
+    "format": "dataframe",
+    "schema": {
+        "car_id": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "date": {
+            "type": "date",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "dealer_name": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "dealer_region": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "company_id": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "model": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "engine": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "transmission": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "color": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "body_style": {
+            "type": "string",
+            "rules": [
+                "not_null"
+            ]
+        },
+        "price_$": {
+            "type": "int",
+            "rules": [
+                "greater_than_0",
+                "not_null"
+            ]
+        }
+    }
+}
